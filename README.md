@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
