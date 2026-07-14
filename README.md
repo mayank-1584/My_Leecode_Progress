@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0239-sliding-window-maximum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0134-gas-station](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Sorting
 |  |
 | ------- |
