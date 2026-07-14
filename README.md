@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
