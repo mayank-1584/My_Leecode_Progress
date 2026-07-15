@@ -75,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
