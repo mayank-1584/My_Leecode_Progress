@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
+| [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0572-subtree-of-another-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
