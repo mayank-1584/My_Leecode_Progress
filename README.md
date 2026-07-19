@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
