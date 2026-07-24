@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
