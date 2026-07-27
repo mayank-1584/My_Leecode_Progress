@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [0214-shortest-palindrome](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Queue
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0214-shortest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
