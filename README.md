@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
