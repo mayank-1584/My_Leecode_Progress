@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
+| [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
 ## Hash Table
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
