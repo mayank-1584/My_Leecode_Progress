@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
