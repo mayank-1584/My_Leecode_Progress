@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
