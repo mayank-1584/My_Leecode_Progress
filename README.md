@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
 | [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
 ## Hash Table
@@ -210,8 +213,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0113-path-sum-ii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
