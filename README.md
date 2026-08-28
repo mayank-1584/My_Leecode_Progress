@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0543-diameter-of-binary-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0543-diameter-of-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0543-diameter-of-binary-tree) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Rolling Hash
 |  |
