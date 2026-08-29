@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0877-stone-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1872-stone-game-viii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -282,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
