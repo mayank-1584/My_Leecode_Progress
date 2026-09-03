@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
