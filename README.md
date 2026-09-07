@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0134-gas-station) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0113-path-sum-ii) |
 ## Minimax
 |  |
