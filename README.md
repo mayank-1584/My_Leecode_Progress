@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
