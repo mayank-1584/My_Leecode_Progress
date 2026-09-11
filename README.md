@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/2463-minimum-total-distance-traveled) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3731-find-missing-elements) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
