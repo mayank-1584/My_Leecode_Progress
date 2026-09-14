@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0844-backspace-string-compare) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mayank-1584/My_Leecode_Progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
